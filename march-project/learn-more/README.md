@@ -1,4 +1,4 @@
-# 📑 Learn More
+# 🗝 Learn More
 
 **As youth transition beyond academic learning, their ability to interact with the real world becomes a key driver of success.**
 

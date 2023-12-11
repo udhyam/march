@@ -22,10 +22,4 @@ The MARch Project is a work in Progress. We invite you to [join our efforts](way
 
 <img src=".gitbook/assets/by.png" alt="by.png" data-size="line">&#x20;
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You can read more about the terms of the license of the linked page below.
-
-{% content-ref url="more/license.md" %}
-[license.md](more/license.md)
-{% endcontent-ref %}
-
-***
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You can read more about the terms of the license [here](more/license.md).

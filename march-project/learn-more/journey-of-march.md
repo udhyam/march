@@ -2,7 +2,7 @@
 
 **Stage 1 : Research**
 
-**Primary Research**
+**A. Primary Research**
 
 Our search and journey of real world youth actions took us to many different places across urban and rural India. We spoke to people from various walks of life, including farmers, government staff, youth, parents, entrepreneurs and educators. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1lunRFlg6qsjYlBwZQvyAgIEIBRobYzgwNfKJ1X\_LBT0/edit?usp=sharing)]
 
@@ -10,9 +10,9 @@ Our search and journey of real world youth actions took us to many different pla
 Our Goal **:** To collect as many examples as possible of specific behavioural traits, that can be observed in a person's normal day-to-day life, which indicate an enterprising mindset and/or high agency.
 {% endhint %}
 
-Actions were documented and mapped to Udhyam’s mindsets (grit, trying new things, self-awareness, independent decision-making). A list of common Actions was curated. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1JM\_8aEtzmpnJ1zb08ULYTwYlxuz7iiPJ\_uIk0MNOgvI/edit#gid=1397825801)]
-
 <figure><img src="../../.gitbook/assets/word-cloud.png" alt=""><figcaption><p>Word Cloud: Actions listed by interviewees</p></figcaption></figure>
+
+Actions were documented and mapped to Udhyam’s mindsets (grit, trying new things, self-awareness, independent decision-making). A list of common Actions was curated. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1JM\_8aEtzmpnJ1zb08ULYTwYlxuz7iiPJ\_uIk0MNOgvI/edit#gid=1397825801)]
 
 <details>
 
@@ -24,13 +24,15 @@ To decode the actions that underlined an entrepreneurial mindset, the questionna
 
 </details>
 
-**Secondary research**
+***
+
+**B. Secondary research**
 
 We conducted in-depth review of literature studying cognitive traits, behavioural manifestations and measurement methods. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1i590SzM7wluOgHrftbDgSAs5oXMKh44DjSsMC-Dt5BM/edit?usp=sharing)]
 
+***
 
-
-**Ecosystem learning**
+**C. Ecosystem learning**
 
 We also engaged in Knowledge-sharing conversations with academics, measurement experts and organizations in the space - Stanford SPARQ, Character Lab, UPenn, IIMB, Life Skills Collaborative, Koach.ai, Toolbox and more. We identified many supporters/mentors. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1lunRFlg6qsjYlBwZQvyAgIEIBRobYzgwNfKJ1X\_LBT0/edit#gid=1314978057)]
 
@@ -58,4 +60,4 @@ We also engaged in Knowledge-sharing conversations with academics, measurement e
 
 **This helped us develop the Version 1 of the Actions Tool.**
 
-<figure><img src="https://lh6.googleusercontent.com/PNFkXDa4edelcqYNeAoOa9a5eqITembVZajZARiI_Qjv41x5rcpZyz0XcbT2LbQ-mnlMu-9OB56WIcxWRMI7Lr8G7lSOKY8XvlziXJJlQRk5_LyPRwuSZ61SrAvg6waL2S_viSY3Kxfp2_qSiamVd6A7-g=s2048" alt=""><figcaption><p>Student in Uttarakhand filling the Actions Tool on mobile devices provided</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/img-20220824-wa0013-removebg-preview1.png" alt=""><figcaption><p>Student in Uttarakhand filling the Actions Tool on mobile devices provided</p></figcaption></figure>

@@ -4,6 +4,8 @@ The [Version 1 of MARch Actions tool](download-the-actions-tool/) is a 20-item, 
 
 It aims to understand real-world actions being taken by youth. In addition, the tool also tries to understand why a certain action may not have been taken, to paint a clearer picture of the environment and barriers faced by our learners. The questionnaire uses Udhyam’s mindsets of grit, trying new things, self- awareness and independent decision-making as an underlying framework.
 
+<figure><img src="../../.gitbook/assets/Annual Report visuals (13) (4.png" alt="" width="563"><figcaption><p>Students in Uttarakhand filling the Actions Tool on mobile devices provided</p></figcaption></figure>
+
 We rolled out the tested tool and have gathered **70,000+ students data from across 5 states in India**. These states include Delhi, Punjab, Uttarakhand, Andhra Pradesh, and Kerala. The data included 70,000+ quantitative data and also 30,000+ qualitative data we gathered from learners to understand the context behind their responses on the actions tool.
 
 The tool was translated into 4 Indian local languages to ensure inclusivity and ease of use - Hindi, Telugu, Punjabi and Malayalam.

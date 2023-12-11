@@ -6,11 +6,10 @@
 
 ## MARch Project
 
-* [📑 Learn More](march-project/learn-more/README.md)
+* [🗝 Learn More](march-project/learn-more/README.md)
   * [📝 MARch Project](march-project/learn-more/march-project.md)
   * [📖 Our Principles](march-project/learn-more/our-principles.md)
-  * [⚙ Udhyam's Context](march-project/learn-more/udhyams-context.md)
-  * [🗝 MARch Actions Tool](march-project/learn-more/march-actions-tool.md)
+  * [🔐 Udhyam's Context](march-project/learn-more/udhyams-context.md)
   * [🧩 Our Approach](march-project/learn-more/our-approach.md)
   * [🔩 Journey of MARch](march-project/learn-more/journey-of-march.md)
 

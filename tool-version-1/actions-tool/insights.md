@@ -1,5 +1,11 @@
 # 💡 Insights
 
+<div align="left" data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/31.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 [🧑‍🤝‍🧑](https://emojipedia.org/people-holding-hands) **1 in every 2 students have reported that they have been a ‘leader’ outside of class activities at least once**
 
 * 11th grade Delhi Students’ Data | 35,400+ student responses
