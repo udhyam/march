@@ -1,4 +1,4 @@
-# 📖 Our Principles
+# ⚖ Our Principles
 
 * **Action-Based**: We measure tangible actions and prioritise user-friendliness and real-world practicalities.
 

@@ -8,7 +8,7 @@
 
 * [🗝 Learn More](march-project/learn-more/README.md)
   * [📝 MARch Project](march-project/learn-more/march-project.md)
-  * [📖 Our Principles](march-project/learn-more/our-principles.md)
+  * [⚖ Our Principles](march-project/learn-more/our-principles.md)
   * [🔐 Udhyam's Context](march-project/learn-more/udhyams-context.md)
   * [🧩 Our Approach](march-project/learn-more/our-approach.md)
   * [🔩 Journey of MARch](march-project/learn-more/journey-of-march.md)
@@ -22,7 +22,7 @@
   * [⚙ How to use the Tool](tool-version-1/actions-tool/how-to-use-the-tool.md)
   * [🔍 Tech Stack](tool-version-1/actions-tool/tech-stack.md)
   * [🔒 Limitations of the tool](tool-version-1/actions-tool/limitations-of-the-tool/README.md)
-    * [🕵 Reliability and Validity Testing](tool-version-1/actions-tool/limitations-of-the-tool/reliability-and-validity-testing.md)
+    * [🔍 Reliability and Validity Testing](tool-version-1/actions-tool/limitations-of-the-tool/reliability-and-validity-testing.md)
 
 ## Way Forward
 

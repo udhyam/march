@@ -1,6 +1,8 @@
 # 📄 License
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>This work is released under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) License</a></p></figcaption></figure>
+[MARch Project ](https://udhyam.gitbook.io/march/)© 2023 by [Udhyam Learning Foundation ](https://udhyam.org/)is licensed under [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>CC BY 4.0</p></figcaption></figure>
 
 **You are free to:**
 

@@ -6,7 +6,7 @@ description: Here are various language versions of the tool.
 
 [We invite you to](../../../way-forward/reach-out-to-us.md): Use our Actions Tool, submit suggestions, submit Actions that you feel are more important and suggest improvements to the questions. The tools are free to use :)
 
-
+***
 
 **Actions Tool: V1 School version \[14-18 yr students]**
 
