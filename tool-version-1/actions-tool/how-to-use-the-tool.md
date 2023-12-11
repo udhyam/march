@@ -5,13 +5,15 @@
 * Self-administered Tool
 * Can be used as a survey, or as a Baseline and Endline assessment.
 
-
+***
 
 _**Please Note**:_&#x20;
 
 * _Given that the Version 1 Actions questionnaire is a tool-in-development, there are no benchmarks for analysis. It will be important for programme teams (ops and curriculum) and M\&E to work together to make sense of, and validate, these findings based on ground realities as well as observation- based experiences._
-* _If the tool is utilized both before and after a program, its current validation may not be sufficient to definitively attribute changes to the program. However, it can still indicate whether a change has occurred or not. In this context, we recommend employing the Fisher's Exact test. \[_[_Link to our notes_](https://docs.google.com/document/d/1Axy3kJZHC9B7Mev3mNUI41ZgDdxPD5ly9N06eyvt0Gw/edit?usp=sharing)_]_\
+* _If the tool is utilized both before and after a program, its current validation may not be sufficient to definitively attribute changes to the program. However, it can still indicate whether a change has occurred or not. In this context, we recommend employing the Fisher's Exact test._ \
+  _\[_[_Link to our notes_](https://docs.google.com/document/d/1Axy3kJZHC9B7Mev3mNUI41ZgDdxPD5ly9N06eyvt0Gw/edit?usp=sharing)_]_
 
+***
 
 **Data, Insights & Future Research**
 
@@ -22,7 +24,8 @@ This tool offers the opportunity to:
 * Potentially collect objective observer data by having peers, parents or teachers fill out the tool and triangulate learner data
 * Research learner actions at a large scale and publish findings to build ecosystem knowledge, learnings and collaborations; this will include combining and comparing findings from across a variety of locations in India.
 
-\
+***
+
 **Analysis & Reporting**
 
 * At the student level, it is possible to analyse the actions they have taken, including their frequency, and to understand the reasons behind actions they may not have undertaken.&#x20;
