@@ -4,7 +4,7 @@ The Mindsets Action Research \[MARch] project addresses this gap by recognising 
 
 The project aims to define and convincingly measure what youth are able to “do” in the real world – encompassing the dimensions of mindsets, knowledge and skills contextually within the realities of a developing country.&#x20;
 
-<figure><img src="../../.gitbook/assets/DP_00402.JPG" alt=""><figcaption><p>Photograph taken during one of Udhyam Shiksha's classroom programs</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DP_00402-removebg-preview (1)1.png" alt=""><figcaption><p>Udhyam Shiksha classroom program snapshot</p></figcaption></figure>
 
 Our key deliverable for this project is to create a host of measurement tools \[MARch Actions Tools] that can aid diverse stakeholders including students / youth themselves, educators, development practitioners, academicians, policymakers and others to measure youth’s real-world actions to be used in diverse contexts such as designing new youth interventions, career development, policy formulation, curriculum enhancement, and recruitment.
 
