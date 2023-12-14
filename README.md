@@ -13,7 +13,7 @@ We are developing tools to measure real world actions of youth in India, and the
 We believe MARch has the potential to create impact at multiple levels of social value. Our research aims to make the “measurement of doing” an enabler for various use cases and contribute evidence to the education and youth development ecosystem by capturing learner voices and contextually-rich actions that matter to the world.&#x20;
 
 {% hint style="info" %}
-The MARch Project is a work in Progress. We invite you to [join our efforts](way-forward/reach-out-to-us.md) in contributing to the design of the Action Tool and helping scale this effort | Link to [Actions Tool \[Version1\]](tool-version-1/actions-tool/)
+The MARch Project is a work in Progress. We invite you to [join our efforts](way-forward/reach-out-to-us.md) in contributing to the design of the Actions Tool and helping scale this effort | Link to [Actions Tool \[Version1\]](tool-version-1/actions-tool/)
 {% endhint %}
 
 ***
