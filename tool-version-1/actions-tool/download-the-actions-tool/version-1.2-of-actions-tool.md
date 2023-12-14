@@ -27,7 +27,9 @@ In the initial version, the response choices were more skewed towards 'positive 
   * (d) Almost always
   * (e) Yes, always
 
-We switched from a 4 point to 5 point Likert scale, as various research publications, including those from Stanford (Krosnick & Presser, 2010), suggest that a 5-point scale is considered optimal.
+We switched from a 4 point to 5 point Likert scale, as research from Stanford (Krosnick & Presser, 2010) and other institutions suggest that a 5-point scale is considered optimal.
+
+
 
 **Change 2**
 
@@ -52,8 +54,8 @@ Krosnick, J. A., & Presser, S. (2010). [Question and questionnaire design](https
 
 **Actions Tool: V1.2 School version \[14-18 yr students]**
 
-{% file src="../../../.gitbook/assets/V1.2_School_English_2012.11.15.pdf" %}
+{% file src="../../../.gitbook/assets/V1.2_School_English_2023.11.15.pdf" %}
 
 **Actions Tool: V1.2 ITI version \[18 yrs and above students]**
 
-{% file src="../../../.gitbook/assets/V1.2_ITI_English_2012.11.15.pdf" %}
+{% file src="../../../.gitbook/assets/V1.2_ITI_English_2023.11.15.pdf" %}
