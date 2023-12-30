@@ -1,7 +1,7 @@
 # 📄 Open Data License
 
 {% hint style="info" %}
-[Udhyam/MARch-Data](https://github.com/udhyam/march-data) is made available under the Open Data Commons Attribution License: [http://opendatacommons.org/licenses/by/1.0/](http://opendatacommons.org/licenses/by/1.0/)
+[Udhyam/MARch-Data](https://github.com/udhyam/march-data) is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/)
 {% endhint %}
 
 ### Open Data Commons Attribution License (ODC-By) Summary

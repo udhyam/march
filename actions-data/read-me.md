@@ -61,15 +61,15 @@ We gathered data as pre and post, with a 3-8 months gap to assess if there have 
 
 **Links**
 
-* [Link to Schema](https://docs.google.com/spreadsheets/d/1Uzr13blWG1uKCp3m9FLsqbf0BHNP74L-2sSJFHhX-9c/edit?usp=sharing)
-* [Link to details of the MARch Project](https://udhyam.gitbook.io/march/)
-* [Link to MARch Actions Tool](https://udhyam.gitbook.io/march/tool-version-1/actions-tool/download-the-actions-tool)
-* [Contributing Guidelines](https://docs.google.com/document/d/19VF-Q1R8YclopfSZfvvWc7jUTjSHSTYBkbeKlF1eSWk/edit?usp=sharing)
-* [Contribution Code of Conduct](https://docs.google.com/document/d/19VF-Q1R8YclopfSZfvvWc7jUTjSHSTYBkbeKlF1eSWk/edit?usp=sharing)
+* [Schema](https://docs.google.com/spreadsheets/d/1Uzr13blWG1uKCp3m9FLsqbf0BHNP74L-2sSJFHhX-9c/edit?usp=sharing)
+* [MARch Project Details](https://udhyam.gitbook.io/march/)
+* [MARch Actions Tool](https://udhyam.gitbook.io/march/tool-version-1/actions-tool/download-the-actions-tool)
+* [Contributing Guidelines](contributing-guidelines/)
+* [Contribution Code of Conduct](contributing-guidelines/contributor-covenant-code-of-conduct.md)
 
 **License**
 
-[Udhyam/MARch-Data](https://github.com/udhyam/march-data) is made available under the Open Data Commons Attribution License: [http://opendatacommons.org/licenses/by/1.0/](http://opendatacommons.org/licenses/by/1.0/)
+[Udhyam/MARch-Data](https://github.com/udhyam/march-data) is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/)
 
 {% content-ref url="open-data-license.md" %}
 [open-data-license.md](open-data-license.md)
