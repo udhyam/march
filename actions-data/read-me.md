@@ -24,7 +24,7 @@ In the second stage, we focused on testing and developing the Version 1 tool. Th
 
 **When was the data gathered?**
 
-Data was gathered between between September 2022-August 2023
+Data was gathered between September 2022-August 2023
 
 We gathered data as pre and post, with a 3-8 months gap to assess if there have been changes in the actions of students and if the tool is able to record them. During post, we also asked students to share examples of their actions. From the data gathered, the tool was tested for initial Reliability and Validity. The results were inconclusive.
 
