@@ -11,3 +11,5 @@ Imagine a world where the Actions Tool becomes a powerful force for youth empowe
 ***
 
 We want to learn and co-create this project with the impact community. Amazing organizations around us are involved in various similar efforts. We aspire to create a community that can together learn, share and co-create, and progress the mission of building more powerful measurement tools to empower our youth.
+
+**Learn more about how you can contribute by clicking** [**here**](https://app.gitbook.com/o/LLreaFrxCaBcouDbgDic/s/wTQFEGnXBGH6eqgDQu8A/\~/changes/20/actions-data)

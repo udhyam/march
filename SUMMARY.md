@@ -30,6 +30,13 @@
 * [🚀 Future Scope](way-forward/future-scope.md)
 * [🌏 Join the Community](way-forward/join-the-community.md)
 
+## Actions Data
+
+* [🧵 Read Me](actions-data/read-me.md)
+* [🤝 Contributing Guidelines](actions-data/contributing-guidelines/README.md)
+  * [🧭 Contributor Covenant Code of Conduct](actions-data/contributing-guidelines/contributor-covenant-code-of-conduct.md)
+* [📄 Open Data License](actions-data/open-data-license.md)
+
 ## More
 
 * [📄 License](more/license.md)
