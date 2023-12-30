@@ -1,9 +1,5 @@
 # 🧵 Read Me
 
-{% hint style="info" %}
-This [Github Repository](https://github.com/udhyam/march-data) contains data gathered from students in India on the MARch Actions Tool.
-{% endhint %}
-
 **Methodology**
 
 The early MARch Project involved two key stages. In the first stage, we extensively researched real-world youth actions in urban and rural India by talking to people from different backgrounds. Our goal was to identify specific behaviors indicating an enterprising mindset and high agency in daily life. We translated our findings into local languages and also conducted secondary research on cognitive and behavioral traits.&#x20;

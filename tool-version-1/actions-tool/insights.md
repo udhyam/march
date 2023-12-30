@@ -68,7 +68,7 @@ A majority of females indicated that they have embraced creating handmade items 
 </details>
 
 {% hint style="info" %}
-\[Link to the Open Data Repository]
+[Udhyam/MARch-Data](https://github.com/udhyam/march-data) is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/)
 {% endhint %}
 
 ***
