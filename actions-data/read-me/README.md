@@ -45,7 +45,7 @@ We gathered data as pre and post, with a 3-8 months gap to assess if there have 
 * Data was collected using an enterprise data collection application, Alchemer
 * Data gathered was stored in google sheets and Udhyam’s internal database
 * Data was cleaned to remove any identifiers such as name, school / ITI name, among others
-* The open data also excludes qualitative gathered from some respondents asking them to share an example if they have taken a particular action. We have excluded this to ensure safety.
+* We have excluded qualitative data obtained from certain respondents who were asked to provide examples of specific actions taken. This exclusion is implemented to prioritize safety.
 
 </details>
 
@@ -57,11 +57,12 @@ We gathered data as pre and post, with a 3-8 months gap to assess if there have 
 
 **Links**
 
+* [MARch-Data](https://github.com/udhyam/march-data)
 * [Schema](https://docs.google.com/spreadsheets/d/1Uzr13blWG1uKCp3m9FLsqbf0BHNP74L-2sSJFHhX-9c/edit?usp=sharing)
 * [MARch Project Details](https://udhyam.gitbook.io/march/)
 * [MARch Actions Tool](https://udhyam.gitbook.io/march/tool-version-1/actions-tool/download-the-actions-tool)
-* [Contributing Guidelines](contributing-guidelines/)
-* [Contribution Code of Conduct](contributing-guidelines/contributor-covenant-code-of-conduct.md)
+* [Contributing Guidelines](../contributing-guidelines/)
+* [Contribution Code of Conduct](../contributing-guidelines/contributor-covenant-code-of-conduct.md)
 
 **License**
 

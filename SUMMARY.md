@@ -26,17 +26,17 @@
 
 ## Way Forward
 
-* [👥 Reach out to us](way-forward/reach-out-to-us.md)
 * [🚀 Future Scope](way-forward/future-scope.md)
+* [👥 Reach out to us](way-forward/reach-out-to-us.md)
 * [🌏 Join the Community](way-forward/join-the-community.md)
 
 ## Actions Data
 
-* [🧵 Read Me](actions-data/read-me.md)
-* [💡 MARch Key Findings](actions-data/march-key-findings.md)
+* [🧵 Read Me](actions-data/read-me/README.md)
+  * [💡 MARch Key Findings](actions-data/read-me/march-key-findings.md)
+  * [📄 Open Data License](actions-data/read-me/open-data-license.md)
 * [🤝 Contributing Guidelines](actions-data/contributing-guidelines/README.md)
   * [🧭 Contributor Covenant Code of Conduct](actions-data/contributing-guidelines/contributor-covenant-code-of-conduct.md)
-* [📄 Open Data License](actions-data/open-data-license.md)
 
 ## More
 
