@@ -68,9 +68,9 @@ A majority of females indicated that they have embraced creating handmade items 
 </details>
 
 {% hint style="info" %}
-[Udhyam/MARch-Data](https://github.com/udhyam/march-data) is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/)
+[Udhyam/MARch-Data](https://github.com/udhyam/march-data) is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/). Learn more [here](broken-reference).
 {% endhint %}
 
 ***
 
-_The real world actions reported by learners was qualitative data gathered from over 30,000 learners across the 5 states to understand the context behind their responses on the quantitative actions tool._
+_We collected qualitative data on real-world actions from over 30,000 learners in five states to better understand their responses to the quantitative actions tool. This is shared above in the 'Examples of Real world actions' section._

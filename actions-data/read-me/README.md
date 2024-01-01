@@ -33,7 +33,8 @@ We gathered data as pre and post, with a 3-8 months gap to assess if there have 
 **Variants of the Actions Tool, Participants and Location**
 
 1. The school version of the Actions Tool is designed for students aged 14-18 attending school. \
-   \-> Delhi, Punjab, Uttarakhand and Andhra Pradesh
+   \-> Delhi, Punjab, Uttarakhand and Andhra Pradesh \
+   \[In Delhi and Uttarakhand, only first 10 items of the tool were implemented as the other 10 were under development]&#x20;
 2. The ITI version of the Actions Tool is tailored for students aged 18 and above, enrolled in ITI or Industrial Training Institute (Vocational Studies) programmes.\
    \-> Kerala
 

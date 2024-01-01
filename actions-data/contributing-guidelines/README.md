@@ -2,7 +2,7 @@
 
 Thank you for taking the time to contribute!
 
-The following is a set of guidelines for contributing to the [MARch-Data](https://github.com/udhyam/march-data) repository, created and maintained by  [Udhyam Learning Foundation](https://udhyam.org/) under the [MARch Project](https://udhyam.gitbook.io/march/) on Gitbook. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a request.
+The following is a set of guidelines for contributing to the [MARch-Data](https://github.com/udhyam/march-data) repository, created and maintained by [Udhyam Learning Foundation](https://udhyam.org/) under the [MARch Project](https://udhyam.gitbook.io/march/) on Gitbook. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a request.
 
 ### Table of Contents
 
@@ -24,7 +24,7 @@ Don't do anything that you wouldn't do in a real life work space. Thank you! :)
 
 You can contribute by&#x20;
 
-* Using our [Actions Tool](../../tool-version-1/actions-tool/download-the-actions-tool/) and open sourcing your data
+* Using our [Actions Tool](../../tool-version-1/actions-tool/download-the-actions-tool/) and open sourcing your data \[Guide: [How to Open up Data](https://opendatahandbook.org/guide/en/how-to-open-up-data/)]
 * Submitting suggestions
   * Submitting Actions that you feel are more important
   * Suggesting improvements to the questions on the Actions Tool

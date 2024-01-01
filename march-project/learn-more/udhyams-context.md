@@ -12,15 +12,15 @@ The focus is on unlocking entrepreneurial mindsets by nurturing 4 key mindsets -
 
 <details>
 
-<summary>What is an Enterprising Mindset?</summary>
+<summary>What is an Entrepreneurial Mindset?</summary>
 
-An enterprising mindset is a way of thinking that is focused on identifying and taking advantage of opportunities. People with an enterprising mindset are typically creative, resourceful, and willing to take risks. They are also able to learn from their mistakes and pivot their approach when necessary.
+An Entrepreneurial mindset is a way of thinking that is focused on identifying and taking advantage of opportunities. People with this mindset are typically creative, resourceful, and willing to take risks. They are also able to learn from their mistakes and pivot their approach when necessary.
 
 </details>
 
 ***
 
-**How did we assess entrepreneurial mindsets?**&#x20;
+**How did we assess Entrepreneurial Mindsets?**&#x20;
 
 We used both qualitative and quantitative approaches. For qualitative data, we undertook one-on-one interviews and focus group discussions.  We also employed facilitator-led observation tools. For our quantitative research, we used survey instruments, peer feedback forms and psychometric tools. (Psychometric tools are standardised instruments designed to measure and quantify psychological attributes, abilities, or traits, such as personality, attitudes, intelligence, or skills)
 
@@ -29,6 +29,8 @@ However…
 While psychometric assessment provided some indication, we want to explore ways of measuring mindset shifts and change in real-world actions with more conviction. There is research to back this too, the use of psychometric tools in developing countries faces challenges related to cultural adaptation, language barriers, limited resources, and the need for context-specific norms. \[8] \[9]
 
 These conversations and internal discussion paved the way for the MARch project’ Action Tool - an effort to identify and develop more convincing methods of assessing individual mindsets and actions.
+
+Example: A student saying "I know how to code in Java" is relatively less convincing as compared to them actually having written multiple Java programs.
 
 <details>
 

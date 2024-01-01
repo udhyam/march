@@ -33,3 +33,5 @@ For instance, 'mobility' as an action, as highlighted by the [World Bank](https:
 India’s economy is predominantly informal (over 90%). With no formal contracts, guaranteed worker rights and benefits, including, social security - workers operate in uncertain job scenarios and have no clear career path. There is no real way to track and assess their capabilities nor the necessary real-world actions they need to cultivate.&#x20;
 
 In the formal sector, more than a third of global companies report difficulties in filling open positions owing to a shortage of people with key skills.\[5] Even for industries now, 'doing' matters more than just 'knowing'.
+
+Example: Driving License Test is a great 'doing' related form of measurement of youth's real world capability.

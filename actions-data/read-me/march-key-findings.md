@@ -7,13 +7,13 @@
    One in Two Kerala Students actively shape Peer Development through Academic Assistance, Career Guidance, and Emotional Support.\
 
 3. **Navigating Gender Dynamics in Local Travel: Revealing Disparities in Solo Journeys**\
-   `Uttarakhand` reveals 13% more Males travelling locally\
+   Uttarakhand reveals 13% more Males travelling locally\
 
 4. **Unlocking Potential: Barriers to Personal Growth in Delhi**\
    One in Three Delhi students express a desire for personal projects, public speaking, extracurricular leadership, helping others, and acquiring new skills, but face limited opportunities.\
 
 5. **Breaking Stereotypes: Gender Dynamics in Student-Initiated Personal Projects**\
-   A noteworthy 8% more females initiate personal projects compared to males, 9th grade Uttarakhand students
+   A noteworthy 8% more females initiate personal projects compared to males in Uttarakhand
 
 {% hint style="info" %}
 We invite you to share your insights using Actions tools or other tools. We'd love to showcase them here for the development community.&#x20;

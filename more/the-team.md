@@ -10,7 +10,8 @@ Collaborators:
 
 * [Syeda Asia](https://www.linkedin.com/in/syeda-asia-a9793915a/) \[Research Team, Udhyam] - Played a key role in co-designing Version 1 of the ITI/Vocational Education Variant of the Actions Tool and supported with ad-hoc project guidance&#x20;
 * [Shreya Mahesh](https://www.linkedin.com/in/shreya-mahesh-ba7616221/) \[MARch Project Intern] - Supported with qualitative analysis of data
-* [Arpit (cube) Arora](https://www.linkedin.com/in/thedataareclean/) \[Independent] - Guided in making MARch Project and Data open source.
+* [Sreehari Ravindranath](https://dreamadream.org/biography-sreehari-ravindranath/) \[Associate Director of Research, Dream A Dream] - Guided us in our Reliability and Validity testing efforts
+* [Arpit Arora](https://www.linkedin.com/in/thedataareclean/) \[Independent] - Guided in making MARch Project and Data open source.
 
 And, many other wonderful colleagues and friends along the way :)
 
