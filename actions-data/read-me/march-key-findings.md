@@ -14,3 +14,9 @@
 
 5. **Breaking Stereotypes: Gender Dynamics in Student-Initiated Personal Projects**\
    A noteworthy 8% more females initiate personal projects compared to males, 9th grade Uttarakhand students
+
+{% hint style="info" %}
+We invite you to share your insights using Actions tools or other tools. We'd love to showcase them here for the development community.&#x20;
+
+**Learn more about how you can contribute by clicking** [**here**](../contributing-guidelines/)
+{% endhint %}
