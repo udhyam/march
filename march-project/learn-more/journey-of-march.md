@@ -26,15 +26,15 @@ To decode the actions that underlined an entrepreneurial mindset, the questionna
 
 ***
 
-**B. Secondary research**
+**B. Secondary Research**
 
 We conducted in-depth review of literature studying cognitive traits, behavioural manifestations and measurement methods. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1i590SzM7wluOgHrftbDgSAs5oXMKh44DjSsMC-Dt5BM/edit?usp=sharing)]
 
 ***
 
-**C. Ecosystem learning**
+**C. Ecosystem Learning**
 
-We also engaged in Knowledge-sharing conversations with academics, measurement experts and organizations in the space - Stanford SPARQ, Character Lab, UPenn, IIMB, Life Skills Collaborative, Koach.ai, Toolbox and more. We identified many supporters/mentors. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1lunRFlg6qsjYlBwZQvyAgIEIBRobYzgwNfKJ1X\_LBT0/edit#gid=1314978057)]
+We also engaged in knowledge sharing conversations with academics, measurement experts and organisations in the space - Stanford SPARQ, Character Lab, UPenn, IIMB, Life Skills Collaborative, Koach.ai, Toolbox and more. We identified many supporters/mentors. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1lunRFlg6qsjYlBwZQvyAgIEIBRobYzgwNfKJ1X\_LBT0/edit#gid=1314978057)]
 
 ***
 
@@ -42,11 +42,11 @@ We also engaged in Knowledge-sharing conversations with academics, measurement e
 
 **Tool Design & Development**:&#x20;
 
-* Self-reported: We arrived at self reported method as optimal for the Version 1 after research and internal discussion. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1JM\_8aEtzmpnJ1zb08ULYTwYlxuz7iiPJ\_uIk0MNOgvI/edit#gid=2093649971)]
+* Self-Reported: For Version 1, we concluded that a self-reported method would be optimal after research and internal discussions. \[[Link to our notes](https://docs.google.com/spreadsheets/d/1JM\_8aEtzmpnJ1zb08ULYTwYlxuz7iiPJ\_uIk0MNOgvI/edit#gid=2093649971)]
 
 <details>
 
-<summary>Advantages of Self-reported</summary>
+<summary>Advantages of the Self-Reported Method</summary>
 
 * Operates independently without the need for a facilitator or observer.&#x20;
 * Empowers learners to leverage their own knowledge and experiences, both in educational settings and beyond, to determine the most suitable course of action.
@@ -56,8 +56,8 @@ We also engaged in Knowledge-sharing conversations with academics, measurement e
 
 * Shortlisting Actions: From the list of real world actions curated and mapped from our primary and secondary research, we shortlisted 20 actions in line with all four of Udhyam’s Mindsets. Here, we followed [our principles](our-principles.md) to help us shortlist actions.\
 
-* Iteratively designing the tool and translations: We drafted an initial questionnaire, translated it into 4 Indian Languages \[Hindi, Telugu, Malayalam and Punjabi] and tested with small groups of learners in 5 states - 10-25 as FGDs and one-on-one interviews. Based on learnings we improved the original English statements and numerous local language words on the tool.
+* Iteratively designing the tool and translations: We drafted an initial questionnaire, translated it into 4 Indian languages \[Hindi, Telugu, Malayalam and Punjabi] and tested with small groups of learners in Delhi, Punjab, Uttarakhand, Andhra Pradesh, and Kerala - 10-25 as FGDs and one-on-one interviews. Based on learnings we improved the original English statements and numerous local language words on the tool.
 
-**This helped us develop the Version 1 of the Actions Tool.**
+**This helped us develop Version 1 of the Actions Tool.**
 
 <figure><img src="../../.gitbook/assets/img-20220824-wa0013-removebg-preview1.png" alt=""><figcaption><p>Student in Uttarakhand filling the Actions Tool on mobile devices provided</p></figcaption></figure>

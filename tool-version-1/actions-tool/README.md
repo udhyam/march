@@ -1,16 +1,16 @@
 # ⚡ Actions Tool
 
-The [Version 1 of MARch Actions tool](download-the-actions-tool/) is a 20-item, fun, self reported and learner-centric questionnaire.&#x20;
+The [Version 1 of MARch Actions tool](download-the-actions-tool/) is a 20-item, fun, self-reported and learner-centric questionnaire.&#x20;
 
 It aims to understand real-world actions being taken by youth. In addition, the tool also tries to understand why a certain action may not have been taken, to paint a clearer picture of the environment and barriers faced by our learners. The questionnaire uses Udhyam’s mindsets of grit, trying new things, self- awareness and independent decision-making as an underlying framework.
 
 <figure><img src="../../.gitbook/assets/Annual Report visuals (13) (4.png" alt="" width="563"><figcaption><p>Students in Uttarakhand filling the Actions Tool on mobile devices provided</p></figcaption></figure>
 
-We rolled out the tested tool and have gathered **70,000+ students data from across 5 states in India**. These states include Delhi, Punjab, Uttarakhand, Andhra Pradesh, and Kerala. The data included 70,000+ quantitative data and also 30,000+ qualitative data we gathered from learners to understand the context behind their responses on the actions tool.
+We rolled out the tested tool and have gathered **70,000+ students data from across India**. The city and States included Delhi, Punjab, Uttarakhand, Andhra Pradesh, and Kerala. We have gathered over 70,000 quantitative and over 30,000 qualitative data responses from learners in order to understand the context behind their responses to the Actions Tool.&#x20;
 
 The tool was translated into 4 Indian local languages to ensure inclusivity and ease of use - Hindi, Telugu, Punjabi and Malayalam.
 
-We gathered data as pre and post, with 3-8 months gap to assess if there have been changes in the actions of students and if the tool is able to record them. During post, we also asked students to share examples of their actions. From the data gathered, the tool was tested for initial Reliability and Validity. More details [here](limitations-of-the-tool/reliability-and-validity-testing.md).&#x20;
+&#x20;We gathered data in two rounds (pre and post), with 3-8 months gap to assess if there have been changes in the actions of students and if the tool is able to record them. During post, we also asked students to share examples of their actions. From the data gathered, the tool was tested for initial Reliability and Validity. More details [here](limitations-of-the-tool/reliability-and-validity-testing.md).&#x20;
 
 <details>
 

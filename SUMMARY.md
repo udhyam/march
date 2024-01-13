@@ -19,7 +19,7 @@
   * [💡 Insights](tool-version-1/actions-tool/insights.md)
   * [🛠 Download the Actions Tool](tool-version-1/actions-tool/download-the-actions-tool/README.md)
     * [⚒ Version 1.2 of Actions Tool](tool-version-1/actions-tool/download-the-actions-tool/version-1.2-of-actions-tool.md)
-  * [⚙ How to use the Tool](tool-version-1/actions-tool/how-to-use-the-tool.md)
+  * [⚙ How To Use the Tool](tool-version-1/actions-tool/how-to-use-the-tool.md)
   * [🔍 Tech Stack](tool-version-1/actions-tool/tech-stack.md)
   * [🔒 Limitations of the tool](tool-version-1/actions-tool/limitations-of-the-tool/README.md)
     * [🔍 Reliability and Validity Testing](tool-version-1/actions-tool/limitations-of-the-tool/reliability-and-validity-testing.md)

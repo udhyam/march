@@ -1,4 +1,4 @@
-# ⚙ How to use the Tool
+# ⚙ How To Use the Tool
 
 **Important**
 
@@ -10,7 +10,7 @@
 _**Please Note**:_&#x20;
 
 * _Given that the Version 1 Actions questionnaire is a tool-in-development, there are no benchmarks for analysis. It will be important for programme teams (ops and curriculum) and M\&E to work together to make sense of, and validate, these findings based on ground realities as well as observation- based experiences._
-* _If the tool is utilized both before and after a program, its current validation may not be sufficient to definitively attribute changes to the program. However, it can still indicate whether a change has occurred or not. In this context, we recommend employing the Fisher's Exact test._ \
+* _If the tool is utilised both before and after a program, its current validation may not be sufficient to definitively attribute changes to the program. However, it can still indicate whether a change has occurred or not. In this context, we recommend employing the Fisher's Exact test._ \
   _\[_[_Link to our notes_](https://docs.google.com/document/d/1Axy3kJZHC9B7Mev3mNUI41ZgDdxPD5ly9N06eyvt0Gw/edit?usp=sharing)_]_
 
 ***
@@ -19,9 +19,9 @@ _**Please Note**:_&#x20;
 
 This tool offers the opportunity to:
 
-* Gain actionable insights for internal purposes (e.g. Curriculum design, post-program engagement); for example, data indicating that learners “wanted to, but did not have the opportunity” to try public-speaking could lead to pivots in program design that create space for these opportunities.
-* Conduct further qualitative research based on findings to understand specific mindsets, actions and barriers
-* Potentially collect objective observer data by having peers, parents or teachers fill out the tool and triangulate learner data
+* Gain actionable insights for internal purposes (e.g. curriculum design, post-program engagement); for example, data indicating that learners “wanted to, but did not have the opportunity” to try public speaking could lead to pivots in program design that create space for these opportunities.
+* Conduct further qualitative research based on findings to understand specific mindsets, actions and barriers.
+* Potentially collect objective observer data by having peers, parents or teachers fill out the tool and triangulate learner data.
 * Research learner actions at a large scale and publish findings to build ecosystem knowledge, learnings and collaborations; this will include combining and comparing findings from across a variety of locations in India.
 
 ***

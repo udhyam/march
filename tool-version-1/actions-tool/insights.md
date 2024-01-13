@@ -9,7 +9,7 @@
 
 <summary>Examples of real world 'leadership' actions reported by learners</summary>
 
-* Captaining sports teams - cricket, football, etc,&#x20;
+* Captaining sports teams - cricket, football, etc
 * Cultural - dance, music, poem recitation&#x20;
 * Extra curriculars - Clubs and organisations, student elections
 * Positions of Civic Responsibility - NSS, NCC, SFI (Students' Federation of India)
@@ -34,7 +34,7 @@
 
 
 
-📚 **1 in 3 students reported that they wanted to, but didn’t have an opportunity to start a personal project, do public-speaking, engage in extracurricular leadership, help others and learn a new skill.**
+📚 **1 in 3 students reported that they wanted to, but didn’t have an opportunity to start a personal project, do public speaking, engage in extracurricular leadership, help others and learn a new skill.**
 
 * 11th grade Delhi Students’ Data | 35,400+ student responses
 
@@ -53,7 +53,7 @@ A majority of females indicated that they have embraced creating handmade items 
 </details>
 
 [\
-🧑‍🤝‍🧑 ](https://emojipedia.org/people-holding-hands)**1 in 2 students in Kerala reported that they have helped someone in thier professional growth, tried something that made them nervous, asked difficult questions and have tried something new on thier own atleast once**
+🧑‍🤝‍🧑 ](https://emojipedia.org/people-holding-hands)**1 in 2 students in Kerala reported that they have helped someone in their professional growth, tried something that made them nervous, asked difficult questions and have tried something new on thier own atleast once**
 
 * ITI Kerala Students’ Data | 10,800+ student responses
 
@@ -61,7 +61,7 @@ A majority of females indicated that they have embraced creating handmade items 
 
 <summary>Examples of real world actions reported by learners</summary>
 
-* Academic assistance: Helping with tutoring, explaining concepts, homework, assignments,
+* Academic assistance: Helping with tutoring, explaining concepts, homework, assignments
 * Career guidance:  Offering guidance on career paths, professions, job markets, resume writing, and interview preparation
 * Other: Providing emotional support, personal advice
 
@@ -73,4 +73,4 @@ A majority of females indicated that they have embraced creating handmade items 
 
 ***
 
-_We collected qualitative data on real-world actions from over 30,000 learners in five states to better understand their responses to the quantitative actions tool. This is shared above in the 'Examples of Real world actions' section._
+_We collected qualitative data on real-world actions from over 30,000 learners to better understand their responses to the quantitative actions tool. This is shared above in the 'Examples of Real world actions' section._
